@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A5FDA761FD49CBD00D8A8EB /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A5FDA751FD49CBD00D8A8EB /* CalculatorBrain.swift */; };
 		8AB0D1AD1FD0859B00D72247 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB0D1AC1FD0859B00D72247 /* AppDelegate.swift */; };
 		8AB0D1AF1FD0859B00D72247 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB0D1AE1FD0859B00D72247 /* ViewController.swift */; };
 		8AB0D1B21FD0859B00D72247 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AB0D1B01FD0859B00D72247 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A5FDA751FD49CBD00D8A8EB /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		8AB0D1A91FD0859B00D72247 /* StenfordCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StenfordCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AB0D1AC1FD0859B00D72247 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8AB0D1AE1FD0859B00D72247 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				8AB0D1BE1FD085C100D72247 /* Other */,
 				8AB0D1AE1FD0859B00D72247 /* ViewController.swift */,
 				8AB0D1B01FD0859B00D72247 /* Main.storyboard */,
+				8A5FDA751FD49CBD00D8A8EB /* CalculatorBrain.swift */,
 			);
 			path = StenfordCalculator;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A5FDA761FD49CBD00D8A8EB /* CalculatorBrain.swift in Sources */,
 				8AB0D1AF1FD0859B00D72247 /* ViewController.swift in Sources */,
 				8AB0D1AD1FD0859B00D72247 /* AppDelegate.swift in Sources */,
 			);
@@ -312,6 +316,7 @@
 				8AB0D1BD1FD0859B00D72247 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
